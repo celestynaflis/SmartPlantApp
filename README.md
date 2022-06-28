@@ -7,7 +7,7 @@ This is the first React App I've ever made. Im aware of this is not perfect.
 
 ## What is it about?
 
-The SmartPlant application is equipped with basic information about plant care. Additionally, the user is provided with soil moisture monitoring, which is realized by Arduino moisture sensors. The user has also at his disposal encyclopedia of 406 plant species, where can view information about their care of them. The goal would be to automate the process of planning care activities, so that the user would receive notifications regarding the necessary steps that need to be taken. Currently, monitoring is on the user's side, and the app allows the user to structure and organise observations and information about plants, and It also allows you to see humidity parameters and gain knowledge.
+The SmartPlant application is equipped with basic information about plant care. Additionally, the user is provided with soil moisture monitoring, which is realized by Arduino moisture sensors. The user has also at his disposal encyclopedia of 406 plant species, where can view information about their care of them. The goal would be to automate the process of planning care activities, so that the user would receive notifications regarding the necessary steps that need to be taken. Currently, monitoring is on the user's side, and the app allows the user to structure and organise observations and information about plants. It also allows you to see proper humidity parameters for particular species and gain knowledge about them.
 
 ### Purpose
 
