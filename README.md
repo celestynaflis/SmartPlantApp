@@ -3,7 +3,7 @@
 React Native App I written as Engineering Thesis together with 3 other developers. Two of us was creating frontend, and two backend. 
 I was responsible for frontend. Additionally, I have created designs of the entire application.
 
-This is the first React App I've ever made. Im aware of this is not perfect. 
+This is the first React App I've ever made. I am aware of that this project is not perfect. 
 
 ## What is it about?
 
@@ -21,6 +21,6 @@ To create frontend side we used React Native and JavaScript.
 
 Backend was written in Node.js. 
 
-Database is created in MongoDB and teh data for it 
+Database is created in MongoDB and the data for it 
 was taken from plant encyclopedia. The data preparation process involved converting text using Python with regular expressions. 
 JSON files were created from the plain text in an automated manner.
